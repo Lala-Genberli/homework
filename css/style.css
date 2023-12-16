@@ -1,0 +1,24 @@
+.common{
+    background-color: #9e7fa3;
+    border:1px;
+    width:1300px;
+    height:1000px;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+.menu{
+    border:1px;
+    width:1000px;
+    height:100px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.listler{
+    border:1px;
+    width:950px;
+    height:90px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:5px;
+}
