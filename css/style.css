@@ -1,5 +1,4 @@
 .common{
-    background-color: #9e7fa3;
     border:1px;
     width:1300px;
     height:1000px;
@@ -21,4 +20,10 @@
     margin-left:auto;
     margin-right:auto;
     margin-top:5px;
+}
+.lorem{
+    width: 200px;
+    height: 300px;
+    border: 1px solid red;
+    
 }
